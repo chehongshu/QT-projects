@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/chongfeng.jpg</file>
+        <file>images/danchufa.jpg</file>
+        <file>images/dengdai.png</file>
+        <file>images/dingchangfeng.jpg</file>
+        <file>images/duoduanfeng.jpg</file>
+        <file>images/Error.jpg</file>
+        <file>images/error.png</file>
+        <file>images/hougushuangfeng.jpg</file>
+        <file>images/housishuangfeng.jpg</file>
+        <file>images/jiandao.jpg</file>
+        <file>images/kongbai.png</file>
+        <file>images/logo.png</file>
+        <file>images/qianshuanggufeng.jpg</file>
+        <file>images/qiansigufeng.jpg</file>
+        <file>images/ruanqidong.jpg</file>
+        <file>images/Run.jpg</file>
+        <file>images/shangtingzhen.jpg</file>
+        <file>images/Stop.jpg</file>
+        <file>images/taiyajiao.jpg</file>
+        <file>images/xiatingzhen.jpg</file>
+        <file>images/ziyoufeng.jpg</file>
+    </qresource>
+</RCC>
