@@ -1,4 +1,3 @@
-# other_projects
 ## QT project
 1. 串口程序 
 2. 显示图片
